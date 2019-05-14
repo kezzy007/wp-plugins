@@ -1,0 +1,9 @@
+wp-mail-smtp
+wordpress-seo
+w3-total-cache
+shortcodes-ultimate
+search-and-replace
+google-sitemap-generator
+duplicator
+formidable
+nivo-slider-lite
